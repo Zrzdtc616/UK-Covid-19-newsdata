@@ -1,4 +1,4 @@
-'''
+
 # Import related modules
 from bs4 import BeautifulSoup
 import requests
@@ -209,7 +209,7 @@ if __name__ == '__main__':
     #sql = "CREATE TABLE theguarnews(id INT AUTO_INCREMENT PRIMARY KEY, Titles VARCHAR(255), Urls VARCHAR(255), Keyword1 VARCHAR(50), Keyword2 VARCHAR(50), Keyword3 VARCHAR(50), Keyword4 VARCHAR(50), Keyword5 VARCHAR(50), Keyword6 VARCHAR(50), Keyword7 VARCHAR(50), Keyword8 VARCHAR(50), Keyword9 VARCHAR(50), Keyword10 VARCHAR(50), C1 VARCHAR(50), C2 VARCHAR(50), C3 VARCHAR(50), Labelsers VARCHAR(50), Labelsecs VARCHAR(50), Author1 VARCHAR(50), Author2 VARCHAR(50), Author3 VARCHAR(50), Author4 VARCHAR(50), Time VARCHAR(50), Description VARCHAR(700), Content VARCHAR(10000))"
     #mycursor.execute(sql)
     get_titleurl()
-'''
+
 
 '''
 nums = len(titles)
