@@ -1,2 +1,2 @@
 # UK-Covid-19-newsdata
-These codes collect reports data on Covid-19 from British newspapers such as the Guardian and the Sun.  
+This project uses python to collect and analyze reports data on Covid-19 from British newspapers including the Guardian and the Sun.  
